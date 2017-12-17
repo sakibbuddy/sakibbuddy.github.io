@@ -52,10 +52,7 @@ roles:
    start: 2016
    end: Ongoing
    employer: Shafi Consultancy Ltd.
-   description: - Develop new web applications according to clients requirements.
-                - Maintain and enhance existing web applications.
-                - Manage projects, maintain documentation on difference phase of the web projects.
-                - Respond promptly and fix the issues/bug identified by clients/QC.
+   description: Develop new web applications according to clients requirements. Maintain and enhance existing web applications. Manage projects, maintain documentation on difference phase of the web projects. Respond promptly and fix the issues/bug identified by clients/QC.
  - title: Web developer
    start: 2014
    end: 2016
