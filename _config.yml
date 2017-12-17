@@ -1,0 +1,120 @@
+# Site settings
+title: Anisur Rahaman Sakib
+twitter_username: sakib_buddy
+name: Anisur Rahaman Sakib
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: Blog
+   url: http://andycostanza.com/
+ - title: GitHub
+   url: https://github.com/sakibbuddy
+ - title: StackOverflow
+   url: https://stackoverflow.com/users/3479063/anisur-rahaman-sakib
+ #- title: DZone
+ #  url: https://dzone.com/users/899489/rhinds.html
+ #- title: LinkedIn
+ #  url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+
+#Any buzzword skills you want to include
+skills:
+ - PHP
+ - HTML5
+ - CSS3
+ - JavaScript
+ - JQuery
+ - Bootstrap
+ - D3
+ - Data visualization
+ - Google map api
+ - Leaflet JS
+ - Laravel framework
+ - Yii framework
+ - Angular
+ - MySQL
+ - RESTful
+ - APACHE
+ - IIS
+ - Agile
+ - JIRA
+
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+#blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
+
+#Work experience is required
+roles:
+ - title: Web Developer 2
+   start: 2016
+   end: Ongoing
+   employer: Shafi Consultancy Ltd.
+   description: - Develop new web applications according to clients requirements.
+                - Maintain and enhance existing web applications.
+                - Manage projects, maintain documentation on difference phase of the web projects.
+                - Respond promptly and fix the issues/bug identified by clients/QC.
+ - title: Web developer
+   start: 2014
+   end: 2016
+   employer: Shafi Consultancy Ltd.
+   description:
+
+ #Education is required
+education:
+ - level: Bachelor of Science (B.Sc.)
+   date: 2014
+   subject: Computer Science and Engineering
+   school: SUST
+
+#This section is optional (as is the image link below)
+#coursera:
+#   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+#   courses:
+ #   - title: Functional Programming Principles in Scala
+#      link: https://www.coursera.org/course/progfun
+#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+#      date: September 16, 2013
+#    - title: Algorithms Design and Analysis, Part 1
+##      link: https://www.coursera.org/course/progfun
+#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+ #     date: April 28, 2014
+
+#List of interesting Github repo/projects to include - optional
+github:
+ - sakibbuddy/dataViz2
+ - sakibbuddy/dataViz
+# - robhinds/twitter-sentiment-analysis
+# - robhinds/spring-reactor-twitter
+# - robhinds/microservices
+# - robhinds/spring-social-geeklist
+# - robhinds/spring-social-stackoverflow
+# - robhinds/food2vec
+# - robhinds/SpringMongoIntegrationExample
+# - robhinds/SpringNeo4JWebApp
+# - robhinds/AndroidChuckQuiz
+# - robhinds/AndroidRssReader
+
+#Stackoverflow flair is optional
+stackoverflow:
+   profileurl: https://stackoverflow.com/users/3479063/anisur-rahaman-sakib
+   flairimageurl: https://stackexchange.com/users/flair/4252441.png
+
+#Mobile apps section is optional
+#apps:
+# - name: Chuck the Quiz
+#   platform: Android
+#   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
+#   description: A basic early Android app (open sourced)
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   Développement de frontend avec Angular<br/>
+   Développement de backend avec Spring Boot<br/>
+   Mise en place de processus d'intégration et de déploiement continu<br/>
+   Développement d’applications Web avec Jave, Struts2, Hibernate, Spring, jQuery et Bootstrap<br/>
+   Développement de site internet mobile HTML 5, Bootstrap et jQuery<br/>
+   Mise en œuvre d’ETL<br/>
+   <br/>
+   Spécialisations : Java, JDK8, Struts2, Hibernate, Spring, Spring Boot, Spring data, Spring data Rest, Angular, typescript, TDD, jUnit, Mockito, TestNG, JSP, Web Services Soap, JAX-WS, WSDL, JAXB, XML, Apache CXF, JAX-RS, Web Services RESTful, Maven, jQuery, jQuery Mobile, Bootstrap, HTML 5, Business Objects XI, Business Objects Data Services, Pentaho Data Integration
