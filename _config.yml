@@ -3,7 +3,6 @@ title: Anisur Rahaman Sakib
 twitter_username: sakib_buddy
 name: Anisur Rahaman Sakib
 
-
 # Build settings
 markdown: kramdown
 
@@ -18,8 +17,8 @@ primarylinks:
    url: https://stackoverflow.com/users/3479063/anisur-rahaman-sakib
  #- title: DZone
  #  url: https://dzone.com/users/899489/rhinds.html
- #- title: LinkedIn
- #  url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+ - title: LinkedIn
+   url: www.linkedin.com/in/sakibbuddy
 
 #Any buzzword skills you want to include
 skills:
