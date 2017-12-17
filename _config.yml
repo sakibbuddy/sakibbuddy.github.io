@@ -83,8 +83,8 @@ education:
 github:
  - sakibbuddy/dataViz2
  - sakibbuddy/dataViz
-# - robhinds/twitter-sentiment-analysis
-# - robhinds/spring-reactor-twitter
+ - robhinds/twitter-sentiment-analysis
+ - robhinds/spring-reactor-twitter
 # - robhinds/microservices
 # - robhinds/spring-social-geeklist
 # - robhinds/spring-social-stackoverflow
