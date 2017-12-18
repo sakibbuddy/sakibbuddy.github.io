@@ -54,7 +54,7 @@ roles:
    end: Ongoing
    employer: Shafi Consultancy Ltd.
    description: Develop new web applications according to clients requirements. Maintain and enhance existing web applications. Manage projects, maintain documentation on difference phase of the web projects. Respond promptly and fix the issues/bug identified by clients/QC.
- - title: Web developer
+ - title: Web Developer
    start: 2014
    end: 2016
    employer: Shafi Consultancy Ltd.
@@ -80,10 +80,13 @@ education:
 #      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
  #     date: April 28, 2014
 
+
+
 #List of interesting Github repo/projects to include - optional
 github:
  - sakibbuddy/dataViz2
  - sakibbuddy/dataViz
+ - sakibbuddy/bangladesh-geocode
 # - robhinds/microservices
 # - robhinds/spring-social-geeklist
 # - robhinds/spring-social-stackoverflow
@@ -107,7 +110,7 @@ stackoverflow:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-    <h4>Web Development</h4>: My server side web development experience has largely been based on the PHP frameworks like Yii and Laravel.
+    <strong>Web Development</strong>: My server side web development experience has largely been based on the PHP frameworks like Yii and Laravel.
     I have also worked with some client side technology using JavaScript, JQuery, Bootstrap and also experimentd with other technology such as NodeJS and AngularJS.
     I have developed some APIs for several projects those are used in both web and mobile application <br/><br/>
 
