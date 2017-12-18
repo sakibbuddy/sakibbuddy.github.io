@@ -11,7 +11,7 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://andycostanza.com/
+   url: http://sakibbdsust.blogspot.com/
  - title: GitHub
    url: https://github.com/sakibbuddy
  - title: StackOverflow
@@ -42,6 +42,7 @@ skills:
  - IIS
  - Agile
  - JIRA
+ - GIT
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
@@ -83,8 +84,6 @@ education:
 github:
  - sakibbuddy/dataViz2
  - sakibbuddy/dataViz
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
 # - robhinds/microservices
 # - robhinds/spring-social-geeklist
 # - robhinds/spring-social-stackoverflow
@@ -108,9 +107,12 @@ stackoverflow:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-    <strong>Web Development</strong>: My server side web development experience has largely been based on the PHP frameworks like Yii and Laravel. I have also worked with some client side technology using JavaScript, JQuery, Bootstrap and also experimentd with other technology such as NodeJS and AngularJS.<b/>
-    <strong>Development Control</strong>: Having a good knowledge on application development life-cycle, I have been worked with project management tools like JIRA, GIT, Bitbucket with an arrary of testing tools and technology.</b>
+    <strong>Web Development</strong>: My server side web development experience has largely been based on the PHP frameworks like Yii and Laravel.
+    I have also worked with some client side technology using JavaScript, JQuery, Bootstrap and also experimentd with other technology such as NodeJS and AngularJS.
+    I have developed some APIs for several projects those are used in both web and mobile application <br/><br/>
 
-    From several side projects and research that I have taken in my free time, I have gained experience and knowledge on Android, some social APIs(Facebook, Twitter) and some cloud platfroms such as Cloude9 and Heroku.
+    <strong>Development Control</strong>: Having a good knowledge on application development life-cycle, I have been worked with project management tools like JIRA, GIT, Bitbucket with an arrary of testing tools and technology.</br>
+
+    From several side projects and research that I have taken in my free time, I have gained experience and knowledge on Android, some social APIs(Facebook, Twitter) and some cloud platfroms such as Cloude9 and Heroku.<br/>
 
     Strong background in project management and client relations. Experienced with all stages of the development cycle for dynamic web projects. Experienced with Agile driven software management using tools like JIRA, youtrack, bitbucket and git.<b/>
