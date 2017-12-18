@@ -107,7 +107,7 @@ stackoverflow:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-    <strong>Web Development</strong>: My server side web development experience has largely been based on the PHP frameworks like Yii and Laravel.
+    <h4>Web Development</h4>: My server side web development experience has largely been based on the PHP frameworks like Yii and Laravel.
     I have also worked with some client side technology using JavaScript, JQuery, Bootstrap and also experimentd with other technology such as NodeJS and AngularJS.
     I have developed some APIs for several projects those are used in both web and mobile application <br/><br/>
 
