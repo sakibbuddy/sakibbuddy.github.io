@@ -108,7 +108,7 @@ stackoverflow:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-    <strong>Web Development</strong>: My server side web development experience has largely been based on the PHP frameworks like Yii and Laravel. I have also worked with some client side technology using JavaScript, JQuery, Bootstrap and also experimentd with other technology such as NodeJS and AngularJS.
+    <strong>Web Development</strong>: My server side web development experience has largely been based on the PHP frameworks like Yii and Laravel. I have also worked with some client side technology using JavaScript, JQuery, Bootstrap and also experimentd with other technology such as NodeJS and AngularJS.<b/>
     <strong>Development Control</strong>: Having a good knowledge on application development life-cycle, I have been worked with project management tools like JIRA, GIT, Bitbucket with an arrary of testing tools and technology.</b>
 
     From several side projects and research that I have taken in my free time, I have gained experience and knowledge on Android, some social APIs(Facebook, Twitter) and some cloud platfroms such as Cloude9 and Heroku.
