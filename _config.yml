@@ -53,12 +53,12 @@ roles:
    start: 2016
    end: Ongoing
    employer: Shafi Consultancy Ltd.
-   description: Develop new web applications according to clients requirements. Maintain and enhance existing web applications. Manage projects, maintain documentation on difference phase of the web projects. Respond promptly and fix the issues/bug identified by clients/QC.
+   description: Responsible for design, development, tests, deployment and support fot the applications to ensure the final product adheres to the predetermined scope and design. Planning and prototyping new applications from clients and inhouse R&D.  Manage projects
  - title: Web Developer
    start: 2014
    end: 2016
    employer: Shafi Consultancy Ltd.
-   description:
+   description: Develop new web applications according to clients requirements. Maintain and enhance existing web applications. Manage projects, maintain documentation on difference phase of the web projects. Respond promptly and fix the issues/bug identified by clients/QC.
 
  #Education is required
 education:
@@ -66,6 +66,16 @@ education:
    date: 2014
    subject: Computer Science and Engineering
    school: SUST
+
+  - level: HSC
+     date: 2009
+     subject: Science
+     school: Notre Dame College, Dhaka
+
+  - level: SSC
+       date: 2007
+       subject: Science
+       school: Collegiate School, Chittagong
 
 #This section is optional (as is the image link below)
 #coursera:
@@ -100,7 +110,9 @@ github:
 stackoverflow:
    profileurl: https://stackoverflow.com/users/3479063/anisur-rahaman-sakib
    flairimageurl: https://stackexchange.com/users/flair/4252441.png
-
+#For Image
+profile:
+  imageurl: {{img.gravatar.jpeg}}
 #Mobile apps section is optional
 #apps:
 # - name: Chuck the Quiz
